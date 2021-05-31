@@ -67,6 +67,7 @@
 		A92215212665241B006BE4FB /* CodableDictionary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodableDictionary.swift; sourceTree = "<group>"; };
 		A92215222665241B006BE4FB /* HTMLParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTMLParser.swift; sourceTree = "<group>"; };
 		A922152A2665241B006BE4FB /* DispatchTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DispatchTimer.swift; sourceTree = "<group>"; };
+		A922155F26652EF4006BE4FB /* SBUtility.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SBUtility.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 		A92214D22665214F006BE4FB = {
 			isa = PBXGroup;
 			children = (
+				A922155F26652EF4006BE4FB /* SBUtility.podspec */,
 				A92214DE2665214F006BE4FB /* Utility */,
 				A92214E92665214F006BE4FB /* UtilityTests */,
 				A92214DD2665214F006BE4FB /* Products */,
